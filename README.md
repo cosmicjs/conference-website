@@ -1,5 +1,5 @@
 # Angular JS Conference Website
-![Angular Conference Website](https://cosmicjs.com/uploads/5186cd60-b984-11e7-8c55-bbeb04939b20-conference-website.png)
+![Angular Conference Website](https://cosmicjs.imgix.net/3f65ec90-b986-11e7-8b30-cd5452a98ae4-angular-conference.jpg?w=1200)
 
 ### [View a demo here](https://conference-website.cosmicapp.co/)
 
