@@ -1,4 +1,4 @@
-# Angular JS Conference App
+# Angular JS Conference Website
 ![Angular Conference Website](https://cosmicjs.com/uploads/5186cd60-b984-11e7-8c55-bbeb04939b20-conference-website.png)
 
 ### [View a demo here](https://conference-website.cosmicapp.co/)
